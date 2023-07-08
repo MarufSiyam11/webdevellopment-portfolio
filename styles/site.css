@@ -28,6 +28,7 @@ nav-title{
 nav > ul{
     display: flex;
     align-items: center;
+    margin: 0 200px;
 }
 nav li{
     list-style:none;
@@ -36,4 +37,15 @@ nav li{
 nav a{
     text-decoration: none;
     color: #474747;
+}
+/* header realated */
+.header{
+    background-color: #FFF8F3;
+}
+.banner{
+    padding:30px 30px 30px 150px;
+    display: flex;
+}
+.profile{
+    width: 500px;
 }
